@@ -36,6 +36,7 @@
 - geckolib-fabric-1.20.1-4.8.2.jar
 - GlitchCore-fabric-1.20.1-0.0.1.1.jar
 - identity-2.7.1-1.20.1-fabric.jar
+- indium-1.0.36-mc1.20.1.jar
 - iris-1.7.6-mc1.20.1.jar
 - jei-1.20.1-fabric-15.20.0.127.jar
 - language-reload-1.5.7+1.20.jar
