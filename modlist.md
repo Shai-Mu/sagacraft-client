@@ -1,9 +1,13 @@
 - AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar
+- another_furniture-fabric-1.20.1-3.0.5.jar
 - architectury-9.2.14-fabric.jar
 - athena-fabric-1.20.1-3.1.2.jar
 - Axiom-5.1.1-for-MC1.20.1.jar
 - badpackets-fabric-quilt-0.4.3-1.20.1-1.19.4.jar
 - balm-fabric-1.20.1-7.3.37.jar
+- bclib-3.0.14.jar
+- better-end-4.0.11.jar
+- better-nether-9.0.10.jar
 - BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar
 - blowguns-merged-1.20.1-1.0.1.jar
 - Chimes-v2.0.1-1.20.1-Fabric.jar
@@ -15,6 +19,7 @@
 - combatroll-fabric-1.3.3-1.20.1.jar
 - comforts-fabric-6.4.0-1.20.1.jar
 - cosycritters-0.1.2-1.20.1-fabric.jar
+- crawl-0.12.0-1.20.1.jar
 - CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar
 - Croptopia-1.20.1-FABRIC-3.0.4.jar
 - cupboard-fabric-1.20.1-2.7.jar
@@ -40,6 +45,7 @@
 - iris-1.7.6-mc1.20.1.jar
 - jei-1.20.1-fabric-15.20.0.127.jar
 - language-reload-1.5.7+1.20.jar
+- letsdo-furniture-fabric-1.0.4.jar
 - lithium-fabric-mc1.20.1-0.11.2.jar
 - medieval_buildings-1.20.1-1.1.3-fabric.jar
 - modmenu-7.2.2-1.20.1.jar
@@ -51,6 +57,7 @@
 - plasmovoice-fabric-1.20.1-2.1.6.jar
 - player-animation-lib-fabric-1.0.2-rc1+1.20.jar
 - reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar
+- reeves-furniture-1.20.1-1.1304-fabric.jar
 - resourcefullib-fabric-1.20.1-2.1.29.jar
 - rocks-1.7.1-1.20.jar
 - SereneSeasons-fabric-1.20.1-9.1.0.2.jar
