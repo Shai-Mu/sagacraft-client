@@ -16,6 +16,7 @@
 - chunksending-fabric-1.20.1-2.8.jar
 - chunksfadein-1.0.7-1.20.1.jar
 - cloth-config-11.1.136-fabric-1.20.1.jar
+- Cluttered-2.1.0-1.20.1[Fabric].jar'
 - combatroll-fabric-1.3.3-1.20.1.jar
 - comforts-fabric-6.4.0-1.20.1.jar
 - cosycritters-0.1.2-1.20.1-fabric.jar
@@ -24,6 +25,9 @@
 - Croptopia-1.20.1-FABRIC-3.0.4.jar
 - cupboard-fabric-1.20.1-2.7.jar
 - Dawn Of Time-fabric-1.20.1-1.5.42.jar
+- decorative_blocks-fabric-1.20.1-4.1.3.jar
+- DistantHorizons-2.4.3-b-1.20.1-fabric-forge.jar
+- DustyDecoRefabricated-1.1-1.20.1+1.20.2.jar
 - dynamic-fps-2.4.0.jar
 - emotecraft-for-MC1.20.1-2.2.7-a.build.49-fabric.jar
 - enchanted-fabric-1.20.1-3.1.13.jar
@@ -37,6 +41,7 @@
 - fantasy_weapons-fabric-0.3.1-1.20.1.jar
 - ferritecore-6.0.0-fabric.jar
 - ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar
+- fusion-1.2.11a-fabric-mc1.20.1.jar
 - fzzy_config-0.7.3+1.20.1.jar
 - geckolib-fabric-1.20.1-4.8.2.jar
 - GlitchCore-fabric-1.20.1-0.0.1.1.jar
@@ -45,17 +50,26 @@
 - iris-1.7.6-mc1.20.1.jar
 - jei-1.20.1-fabric-15.20.0.127.jar
 - language-reload-1.5.7+1.20.jar
+- letsdo-API-fabric-1.2.15-fabric.jar
+- letsdo-bakery-fabric-1.1.15.jar
+- letsdo-candlelight-fabric-2.0.5.jar
+- letsdo-farm_and_charm-fabric-1.0.14.jar
 - letsdo-furniture-fabric-1.0.4.jar
+- letsdo-herbalbrews-fabric-1.0.12.jar
+- letsdo-meadow-fabric-1.3.25.jar
 - lithium-fabric-mc1.20.1-0.11.2.jar
 - medieval_buildings-1.20.1-1.1.3-fabric.jar
 - modmenu-7.2.2-1.20.1.jar
+- moonlight-1.20-2.16.15-fabric.jar
 - Multiworld-Fabric-bundle.jar
 - naturalist-fabric-4.0.3-1.20.1.jar
+- notenoughanimations-fabric-1.11.1-mc1.20.1.jar
 - open-parties-and-claims-fabric-1.20.1-0.25.8.jar
 - particlerain-4.0.0-beta.3-1.20.1-fabric.jar
 - Patchouli-1.20.1-84-FABRIC.jar
 - plasmovoice-fabric-1.20.1-2.1.6.jar
 - player-animation-lib-fabric-1.0.2-rc1+1.20.jar
+- rechiseled-1.1.6-fabric-mc1.20.jar
 - reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar
 - reeves-furniture-1.20.1-1.1304-fabric.jar
 - resourcefullib-fabric-1.20.1-2.1.29.jar
@@ -70,6 +84,9 @@
 - starlight-1.1.2+fabric.dbc156f.jar
 - stateobserver-fabric-1.20.1-1.4.3.jar
 - SubtleEffects-fabric-1.20.1-1.13.1.jar
+- supermartijn642configlib-1.1.8a-fabric-mc1.20.jar
+- supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar
+- supplementaries-1.20-3.1.41-fabric.jar
 - TerraBlender-fabric-1.20.1-3.0.1.10.jar
 - ToughAsNails-fabric-1.20.1-9.2.0.171.jar
 - vmp-fabric-mc1.20.1-0.2.0+beta.7.96-all.jar
@@ -77,5 +94,4 @@
 - WI-Zoom-1.4-MC1.20.1.jar
 - wthit-fabric-8.16.1-1.20.1-fabric.jar
 - XaerosWorldMap_1.39.12_Fabric_1.20.jar
-- yesstevemodel-1.20-fabric-release-1.1.5-hotfix-2.jar
 - yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar
