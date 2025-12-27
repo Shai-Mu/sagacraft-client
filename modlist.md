@@ -1,4 +1,4 @@
-- AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar
+-  AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar
 - another_furniture-fabric-1.20.1-3.0.5.jar
 - architectury-9.2.14-fabric.jar
 - athena-fabric-1.20.1-3.1.2.jar
@@ -16,7 +16,7 @@
 - chunksending-fabric-1.20.1-2.8.jar
 - chunksfadein-1.0.7-1.20.1.jar
 - cloth-config-11.1.136-fabric-1.20.1.jar
-- Cluttered-2.1.0-1.20.1[Fabric].jar'
+- Cluttered-2.1.0-1.20.1[Fabric].jar
 - combatroll-fabric-1.3.3-1.20.1.jar
 - comforts-fabric-6.4.0-1.20.1.jar
 - cosycritters-0.1.2-1.20.1-fabric.jar
@@ -45,7 +45,6 @@
 - fzzy_config-0.7.3+1.20.1.jar
 - geckolib-fabric-1.20.1-4.8.2.jar
 - GlitchCore-fabric-1.20.1-0.0.1.1.jar
-- identity-2.7.1-1.20.1-fabric.jar
 - indium-1.0.36-mc1.20.1.jar
 - iris-1.7.6-mc1.20.1.jar
 - jei-1.20.1-fabric-15.20.0.127.jar
@@ -58,6 +57,7 @@
 - letsdo-herbalbrews-fabric-1.0.12.jar
 - letsdo-meadow-fabric-1.3.25.jar
 - lithium-fabric-mc1.20.1-0.11.2.jar
+- LuckPerms-Fabric-5.4.102.jar
 - medieval_buildings-1.20.1-1.1.3-fabric.jar
 - modmenu-7.2.2-1.20.1.jar
 - moonlight-1.20-2.16.15-fabric.jar
@@ -88,7 +88,6 @@
 - supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar
 - supplementaries-1.20-3.1.41-fabric.jar
 - TerraBlender-fabric-1.20.1-3.0.1.10.jar
-- ToughAsNails-fabric-1.20.1-9.2.0.171.jar
 - vmp-fabric-mc1.20.1-0.2.0+beta.7.96-all.jar
 - waystones-fabric-1.20.1-14.1.17.jar
 - WI-Zoom-1.4-MC1.20.1.jar
