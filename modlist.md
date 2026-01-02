@@ -1,4 +1,4 @@
--  AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar
+- AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar
 - another_furniture-fabric-1.20.1-3.0.5.jar
 - architectury-9.2.14-fabric.jar
 - athena-fabric-1.20.1-3.1.2.jar
@@ -12,9 +12,8 @@
 - blowguns-merged-1.20.1-1.0.1.jar
 - Chimes-v2.0.1-1.20.1-Fabric.jar
 - chipped-fabric-1.20.1-3.0.7.jar
-- chisels-and-bits-fabric-1.4.148.jar
 - chunksending-fabric-1.20.1-2.8.jar
-- chunksfadein-1.0.7-1.20.1.jar
+- chunksfadein-fabric-3.0.19-1.20.jar
 - cloth-config-11.1.136-fabric-1.20.1.jar
 - Cluttered-2.1.0-1.20.1[Fabric].jar
 - combatroll-fabric-1.3.3-1.20.1.jar
@@ -26,9 +25,9 @@
 - cupboard-fabric-1.20.1-2.7.jar
 - Dawn Of Time-fabric-1.20.1-1.5.42.jar
 - decorative_blocks-fabric-1.20.1-4.1.3.jar
-- DistantHorizons-2.4.3-b-1.20.1-fabric-forge.jar
 - DustyDecoRefabricated-1.1-1.20.1+1.20.2.jar
 - dynamic-fps-2.4.0.jar
+- emi-1.1.22+1.20.1+fabric.jar
 - emotecraft-for-MC1.20.1-2.2.7-a.build.49-fabric.jar
 - enchanted-fabric-1.20.1-3.1.13.jar
 - enhancedblockentities-0.9+1.20.jar
@@ -47,7 +46,6 @@
 - GlitchCore-fabric-1.20.1-0.0.1.1.jar
 - indium-1.0.36-mc1.20.1.jar
 - iris-1.7.6-mc1.20.1.jar
-- jei-1.20.1-fabric-15.20.0.127.jar
 - language-reload-1.5.7+1.20.jar
 - letsdo-API-fabric-1.2.15-fabric.jar
 - letsdo-bakery-fabric-1.1.15.jar
@@ -62,12 +60,13 @@
 - modmenu-7.2.2-1.20.1.jar
 - moonlight-1.20-2.16.15-fabric.jar
 - Multiworld-Fabric-bundle.jar
+- multiworldnether-0.1-1.20.1.jar
 - naturalist-fabric-4.0.3-1.20.1.jar
 - notenoughanimations-fabric-1.11.1-mc1.20.1.jar
 - open-parties-and-claims-fabric-1.20.1-0.25.8.jar
 - particlerain-4.0.0-beta.3-1.20.1-fabric.jar
 - Patchouli-1.20.1-84-FABRIC.jar
-- plasmovoice-fabric-1.20.1-2.1.6.jar
+- plasmovoice-fabric-1.20.1-2.1.8.jar
 - player-animation-lib-fabric-1.0.2-rc1+1.20.jar
 - rechiseled-1.1.6-fabric-mc1.20.jar
 - reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar
@@ -80,7 +79,6 @@
 - smoothchunk-fabric-1.20.1-4.1.jar
 - sodium-extra-0.5.9-mc1.20.1.jar
 - sodium-fabric-0.5.13-mc1.20.1.jar
-- spyglass_astronomy-1.0.15-mc1.20.1.jar
 - starlight-1.1.2+fabric.dbc156f.jar
 - stateobserver-fabric-1.20.1-1.4.3.jar
 - SubtleEffects-fabric-1.20.1-1.13.1.jar
